@@ -1,0 +1,15 @@
+.MMM{
+	font-size: 90px;
+	background-color: red;
+}
+body{
+	background- color: green;
+	background-size: 90%;
+	(filter:blur(90px));
+	background-origin: unset;
+	background-position: center;
+	background-attachment: fixed;
+	color: black;
+	text-align: center;
+	padding:20px;
+}
